@@ -78,3 +78,5 @@ Wow. If you don't use this for a while you forget. open -a (appName) (fileName)
 
 \ is used inbetween app names with spaces
 
+
+OK, now to make a game in Python. Writing "sunken castle" when I was 9 was a blast. Building that in Python could make for a fun game on Wire.
